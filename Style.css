@@ -1,0 +1,14 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url("Antony_Covid19.pdf");
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.Report {
+  width: 100%;
+  height: 100%;
+}
